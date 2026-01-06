@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=shark&height=120&section=footer&text=Open%20To%20Work%20%F0%9F%92%B5&fontSize=48&fontColor=FFE4B5&animation=blinking&theme=tokyonight" />
+<img src="https://capsule-render.vercel.app/api?type=shark&height=120&section=footer&text=Hello%20Everyone%2C%20I'm%20Khanh%20-%20Developer&fontSize=42&fontColor=FFE4B5&animation=twinkling&theme=tokyonight" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Backend+%7C+Fullstack+Developer;Java+%7C+Spring+Boot+%7C+Node.js;Clean+Code+%26+Scalable+Systems" />
