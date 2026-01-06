@@ -71,6 +71,16 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+</picture>
+
+---
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&text=Open%20To%20Work&fontSize=48&fontColor=ffffff&animation=twinkling&theme=tokyonight" />
 </div>
