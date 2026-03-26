@@ -37,10 +37,24 @@
 
 ---
 
-<picture> 
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" /> 
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" /> 
-</picture>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&v=2" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&show_icons=true&locale=en&theme=tokyonight&layout=compact&hide=html,css,scss" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</p>
+
+---
+
+<p align="center">
+  <picture> 
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" /> 
+    <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" /> 
+  </picture>
+</p>
 
 ---
 
