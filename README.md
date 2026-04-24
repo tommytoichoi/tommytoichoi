@@ -40,7 +40,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tommy183205&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&v=2" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tommyk05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&v=2" alt="GitHub Stats" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tommyk05&show_icons=true&locale=en&theme=tokyonight&layout=compact&hide=html,css,scss" alt="Top Languages" />
