@@ -40,11 +40,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tommyk05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&v=2" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tommytoichoi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&v=2" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tommyk05&show_icons=true&locale=en&theme=tokyonight&layout=compact&hide=html,css,scss" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=tommyk05&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tommytoichoi&show_icons=true&locale=en&theme=tokyonight&layout=compact&hide=html,css,scss" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=tommytoichoi&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
